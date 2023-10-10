@@ -16,6 +16,9 @@ public class Main {
     }
 
     private static int calc(int a, int b) {
+        /* TODO
+        * bug 1
+         */
         a = b+1;
         return a;
 
