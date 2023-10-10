@@ -8,7 +8,7 @@ public class Main {
                 "jdbc:mysql://127.0.0.1:3306/satd_replace_db",
                 "me",
                 "goma");
-        //init database //TODO I just need to rewrite the existing SATD DB, so I don't have to create a new DB?
+        //init database
         
         int a =0;
         int b =0;
