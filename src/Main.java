@@ -19,8 +19,9 @@ public class Main {
     private static int calc(int a, int b) {
         /* TODO
         * bug 10
+        * //TODO change name
          */
-        //TODO change name
+
         a = b+1;
         return a;
 
