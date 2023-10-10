@@ -13,12 +13,14 @@ public class Main {
         int a =0;
         int b =0;
         calc(a,b);
+        //TODO new function add
     }
 
     private static int calc(int a, int b) {
         /* TODO
-        * bug 1
+        * bug 10
          */
+        //TODO change name
         a = b+1;
         return a;
 
