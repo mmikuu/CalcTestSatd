@@ -9,7 +9,7 @@ public class Main {
                 "me",
                 "goma");
         //init database
-        
+        //Fixme //TODO
         int a =0;
         int b =0;
         calc(a,b);
