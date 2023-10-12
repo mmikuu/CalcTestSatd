@@ -16,7 +16,7 @@ public class Main {
         //TODO new function added
         //TODO new function added
 
-        // FIXME
+        // FIXME fun
     }
 
     private static int calc(int a, int b) {
