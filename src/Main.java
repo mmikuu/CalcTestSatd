@@ -13,7 +13,10 @@ public class Main {
         int a =0;
         int b =0;
         calc(a,b);
+        //TODO new function added
+        //TODO new function added
 
+        //instanceof checks
     }
 
     private static int calc(int a, int b) {
