@@ -15,6 +15,8 @@ public class Main {
         calc(a,b);
         //TODO new function added
         //TODO new function added
+
+        //instanceof checks
     }
 
     private static int calc(int a, int b) {
