@@ -28,7 +28,7 @@ public class Main {
         a = b+1;
         return a;
         /* TODO
-         * bug 10
+         * bug 12345
          * //TODO change name
          */
 
